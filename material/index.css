@@ -1,0 +1,37 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+marquee {
+    color: rgb(25, 128, 219);
+    height: 40px;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: radial-gradient(  yellow,lightgrey);
+    border: 1px solid black;
+}
+
+
+
+.sub-name {
+    height: 100px;
+    width: 200px;
+    text-align: center;
+    border: 1px solid black;
+    color: yellow;
+    background-color: skyblue;
+    margin: auto;
+    padding-top: 80px;
+}
+
+button {
+    height:40px ;
+    width: 80px ;
+    position: fixed;
+    bottom: 6px;
+    
+}
+ a {
+    text-decoration: none;
+ }
